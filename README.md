@@ -1,1 +1,1 @@
-Modificación del proyecto original diyBms de Stuart Pitaway https://github.com/stuartpittaway/diyBMSv4
+Modificación del proyecto original diyBms de Stuart Pittaway https://github.com/stuartpittaway/diyBMSv4
